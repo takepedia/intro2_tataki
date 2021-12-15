@@ -12,7 +12,7 @@
 
 ### [２．敲きの心持ち](https://github.com/takepedia/intro2_tataki/tree/master/spirit)
 
-### [３．技術支援](https://github.com/takepedia/intro2_tataki/tree/master/technique)
+### [３．敲きの技術](https://github.com/takepedia/intro2_tataki/tree/master/technique)
 
 ## QetA
 
