@@ -1,7 +1,7 @@
 # 敲き概論
 
 そもそも敲きとは何なのでしょうか．また何のためになされるものなのでしょうか．  
-これらを把握することで，続く [２．敲きの心持ち](https://github.com/takepedia/intro2_tataki/tree/master/spirit)，[３．敲きの技術](https://github.com/takepedia/intro2_tataki/tree/master/technique) の理解が深められることが期待されます．
+まずはそれらについて確認し，[２．敲きの心持ち](https://github.com/takepedia/intro2_tataki/tree/master/spirit)，[３．敲きの技術](https://github.com/takepedia/intro2_tataki/tree/master/technique) への橋掛けとしましょう．
 
 ## 目標
 
@@ -18,6 +18,13 @@
 
 > 自分が作った文章やコンテンツ案などを他の人に添削・推敲してもらい、アドバイスをもらう作業のこと。
 > または、他の人が作った文章やコンテンツ案を自分が添削・推敲して、アドバイスをすること。
+
+まったくもってこの通りなので，これを「敲き」の説明としておきます．
+
+> note
+>
+> ちなみに「敲き」は FairWind 内でのみ通じる言葉です．何か成果物を提出して「敲いてください」と伝えると FairWind 外の人は「叩いてください」だと思ってぶっ叩いてくるので気をつけましょう．
+>
 
 ## 敲きの目的
 
