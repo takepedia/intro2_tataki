@@ -8,11 +8,11 @@
 
 ## 構成
 
-### [１．敲き概論](https://github.com/takepedia/intro2_tataki/tree/master/intro){:target="_blank"}
+### [１．敲き概論](https://github.com/takepedia/intro2_tataki/tree/master/intro)
 
-### [２．敲きの心持ち](https://github.com/takepedia/intro2_tataki/tree/master/spirit){:target="_blank"}
+### [２．敲きの心持ち](https://github.com/takepedia/intro2_tataki/tree/master/spirit)
 
-### [３．敲きの技術](https://github.com/takepedia/intro2_tataki/tree/master/technique){:target="_blank"}
+### [３．敲きの技術](https://github.com/takepedia/intro2_tataki/tree/master/technique)
 
 ## QetA
 
