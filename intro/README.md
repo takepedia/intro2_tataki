@@ -1,7 +1,7 @@
 # 敲き概論
 
 そもそも敲きとは何なのでしょうか．また何のためになされるものなのでしょうか．  
-まずはそれらについて確認し，[２．敲きの心持ち](https://github.com/takepedia/intro2_tataki/tree/master/spirit)，[３．敲きの技術](https://github.com/takepedia/intro2_tataki/tree/master/technique) への橋掛けとしましょう．
+まずはそれらについて確認し，[２．敲きの心持ち](../spirit/README.md)，[３．敲きの技術](../technique/README.md) への橋掛けとしましょう．
 
 ## 目標
 
