@@ -10,7 +10,7 @@
 
 ### [１．敲き概論](/intro/README.md)
 
-### [２．敲きの心持ち](/spirit)
+### [２．敲きの心持ち](/spirit/README.md)
 
 ### [３．敲きの技術](/technique/README.md)
 
