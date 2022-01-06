@@ -81,11 +81,13 @@ Google Document に付けられたコメントにはスレッドに返信する�
 
 本稿は 10 期の偉大な先輩 T さんの大きな協力を得て執筆されています．
 
+
 ## 他のページ
 
 - [トップ](../README.md)
 - [１．敲き概論](../intro/README.md)
 - [２．敲きの心持ち](../spirit/README.md)
 - [３．敲きの技術](../technique/README.md)
+
 
 [^1]: 実際は [FairWind について 11 期代第１ターム版](https://fairwind-storage-6.s3.amazonaws.com/media/wiki/attachments/639/FairWindについて11期代第1ターム版.pdf) の文章を大幅に改変したものです．
