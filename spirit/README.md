@@ -79,6 +79,6 @@ Google Document に付けられたコメントにはスレッドに返信する�
 
 ## 謝辞
 
-本稿は [10期の偉大な先輩](http://fairwindplatform.us-east-1.elasticbeanstalk.com/wiki/member/10th/take/) の大きな協力を得て執筆されています．
+本稿は 10 期の偉大な先輩 T さんの大きな協力を得て執筆されています．
 
 [^1]: 実際は [FairWind について 11 期代第１ターム版](https://fairwind-storage-6.s3.amazonaws.com/media/wiki/attachments/639/FairWindについて11期代第1ターム版.pdf) の文章を大幅に改変したものです．
